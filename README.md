@@ -1,6 +1,9 @@
 # Doctor Care AngularJS
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.2.
+This is my project developed using AngularJS v18, featuring a landing page called Doctor Care.
+<br><br>
+
+<img src="./src/assets/Capa.png" />
 
 ## Development server
 
